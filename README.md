@@ -6,7 +6,7 @@
 ## 数据库
 
 * [PostgreSQL数据库资源](https://github.com/ty4z2008/Qix/blob/master/pg.md)
-* **ostgreSQL 客户端**
+* **PostgreSQL 客户端**
   * [sqltabs](https://github.com/sasha-alias/sqltabs)
   * [DBGlass](https://github.com/web-pal/DBGlass)
 
